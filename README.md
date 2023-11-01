@@ -3,6 +3,7 @@
 ## 1. Introduction
 
 This repository contains a responsive and interactive web page that displays a list of products.
+You can find the figma designs used to create this web page - **[Link](https://www.figma.com/file/rXoI5F4HzMfqx1htmvGu1h/Internship?type=design&node-id=0%3A1&mode=design&t=pWQCAzgBXvpLMvMj-1)**
 
 ## 2. Getting Started
 
